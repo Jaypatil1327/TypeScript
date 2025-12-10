@@ -1,4 +1,3 @@
-"use strict";
 function PrintID(val) {
     if (typeof val === "string") {
         console.log(val);
@@ -22,3 +21,4 @@ function callHolder(x) {
     }
 }
 console.log(acc_holder);
+export {};

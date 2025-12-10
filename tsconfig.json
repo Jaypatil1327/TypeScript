@@ -2,8 +2,9 @@
 {
   "compilerOptions": {
     "target": "es2022",
-    "module": "es2022",
-    "moduleResolution": "bundler",
+    "module": "nodenext",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "nodenext",
     "strictNullChecks": true,
     "allowUnreachableCode": false,
     "noUncheckedIndexedAccess": true,
@@ -12,7 +13,8 @@
     "skipLibCheck": true,
     "strict": true,
     "rootDir": "src",
-    "outDir": "dist"
+    "outDir": "dist",
+    "resolveJsonModule": true
   },
   "include": ["src"]
 }

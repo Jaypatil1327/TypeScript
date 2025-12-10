@@ -1,4 +1,3 @@
-"use strict";
 const s = [1, 2, 3, 4, 5, 6];
 const s2 = [1, 2, 3, 4, 5, 6];
 function add(num) {
@@ -10,3 +9,4 @@ function add(num) {
 }
 const mutable = [1, 2, 3, 4, 5];
 console.log(add(mutable));
+export {};

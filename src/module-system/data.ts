@@ -1,0 +1,29 @@
+const songsData = [
+  { singer: "Arijit Singh", song: "Tum Hi Ho" },
+  { singer: "Arijit Singh", song: "Channa Mereya" },
+  { singer: "Arijit Singh", song: "Agar Tum Saath Ho" },
+
+  { singer: "KK", song: "Khuda Jaane" },
+  { singer: "KK", song: "Tu Hi Meri Shab Hai" },
+  { singer: "KK", song: "Sach Keh Raha Hai" },
+
+  { singer: "Sonu Nigam", song: "Abhi Mujh Mein Kahin" },
+  { singer: "Sonu Nigam", song: "Kal Ho Na Ho" },
+  { singer: "Sonu Nigam", song: "Suraj Hua Maddham" },
+
+  { singer: "Shreya Ghoshal", song: "Teri Ore" },
+  { singer: "Shreya Ghoshal", song: "Sun Raha Hai" },
+  { singer: "Shreya Ghoshal", song: "Agar Tum Mil Jao" },
+
+  { singer: "Atif Aslam", song: "Jeene Laga Hoon" },
+  { singer: "Atif Aslam", song: "Tera Hone Laga Hoon" },
+  { singer: "Atif Aslam", song: "Dil Diyan Gallan" },
+
+  { singer: "Armaan Malik", song: "Bol Do Na Zara" },
+  { singer: "Armaan Malik", song: "Sab Tera" },
+
+  { singer: "Arjun Kanungo", song: "Baaki Baatein Peene Baad" },
+  { singer: "Arjun Kanungo", song: "Waada Hai" },
+];
+
+export default songsData;

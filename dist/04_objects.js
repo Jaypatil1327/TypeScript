@@ -1,4 +1,3 @@
-"use strict";
 const user1 = {
     username: "jack",
     phoneNumber: 7742481799,
@@ -6,3 +5,4 @@ const user1 = {
 };
 const x = { x: 23, y: 1, z: 1000 };
 const y = { views: 23, likes: 12, share: -1 };
+export {};

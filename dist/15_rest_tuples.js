@@ -1,4 +1,3 @@
-"use strict";
 function tuples(...args) {
     console.log(args);
 }
@@ -10,3 +9,4 @@ function getDistance(...args) {
 }
 const vals = [12, 12, 12, 12];
 console.log(getDistance(...vals));
+export {};

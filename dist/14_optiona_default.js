@@ -1,4 +1,3 @@
-"use strict";
 function greetUserOptional(username) {
     const user = username ?? "Guest";
     return `Hello mr/mrs ${user}`;
@@ -10,3 +9,4 @@ function greetUserDefault(username = "Default") {
 }
 console.log(greetUserDefault("jack sparrow"));
 console.log(greetUserDefault());
+export {};
